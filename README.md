@@ -15,7 +15,7 @@ Appunti completi del corso di **Calcolo Scientifico** della Facoltà di Matemati
 - Metodo delle potenze e sua convergenza
 - Iterazione QR e riduzione di Hessenberg
 - Shifting e deflation
-
+ 
 ### 3. Problemi agli Autovalori Simmetrici e SVD
 - Iterazione QR tridiagonale
 - Teorema di Courant-Fischer
