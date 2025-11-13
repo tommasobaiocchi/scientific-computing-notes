@@ -1,4 +1,4 @@
-# Calcolo Scientifico - Appunti 2025/26
+ # Calcolo Scientifico - Appunti 2025/26
 
 Appunti completi del corso di **Calcolo Scientifico** della Facoltà di Matematica a Pisa, anno accademico 2025-2026.
   
