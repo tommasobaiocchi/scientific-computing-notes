@@ -4,9 +4,9 @@ Appunti completi del corso di **Calcolo Scientifico** della Facoltà di Matemati
   
 ## 📚 Contenuti del Corso 
 
-### 1. Discretizzazione di Problemi Differenziali 
+### 1. Discretizzazione di Problemi Differenziali
 - Discretizzazione di operatori differenziali alle differenze finite
-- Problema di Poisson 1D e 2D 
+- Problema di Poisson 1D e 2D
 - Analisi di stabilità e convergenza 
 - Integrazione di problemi dipendenti dal tempo   
   
