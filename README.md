@@ -9,7 +9,7 @@ Appunti completi del corso di **Calcolo Scientifico** della Facoltà di Matemati
 - Problema di Poisson 1D e 2D 
 - Analisi di stabilità e convergenza 
 - Integrazione di problemi dipendenti dal tempo   
- 
+  
 ### 2. Problemi agli Autovalori Non Simmetrici
 - Teoria delle perturbazioni per problemi agli autovalori 
 - Metodo delle potenze e sua convergenza
