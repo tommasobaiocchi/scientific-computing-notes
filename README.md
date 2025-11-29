@@ -10,7 +10,7 @@ Appunti completi del corso di **Calcolo Scientifico** della Facoltà di Matemati
 - Analisi di stabilità e convergenza 
 - Integrazione di problemi dipendenti dal tempo   
   
-### 2. Problemi agli Autovalori Non Simmetrici
+### 2. Problemi agli Autovalori Non Simmetrici 
 - Teoria delle perturbazioni per problemi agli autovalori 
 - Metodo delle potenze e sua convergenza
 - Iterazione QR e riduzione di Hessenberg
