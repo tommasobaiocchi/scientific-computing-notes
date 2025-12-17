@@ -22,7 +22,32 @@ Appunti completi del corso di **Calcolo Scientifico** della Facoltà di Matemati
 - Decomposizione ai Valori Singolari (SVD)
 - Teorema di Eckart-Young-Mirsky
 
-### 4. Applicazioni: PageRank
-- Modello matematico del PageRank
-- Teoria di Perron-Frobenius
-- Problemi nella formulazione e soluzioni
+### 4. PageRank
+- Problemi nella formulazione
+- Teorema di Perron-Frobenius
+- Modello di PageRank modificato
+
+### 5. Problemi ai minimi quadrati
+- Equazioni normali per problemi sovradeterminati e di rango pieno
+- Risoluzione mediante QR e SVD
+- Sistemi sottodeterminati e non full rank
+- Pseudoinversa di Moore-Penrose
+
+### 6. Metodi di Krylov per sistemi lineari
+- Introduzione ai sottospazi di Krylov
+- Iterazione di Arnoldi
+- Metodo dell'ortogonalizzazione completa (FOM)
+- GMRES (Generalized Minimal Residual)
+- Convergenza e insiemi spettrali
+- Precondizionamento
+- Problemi simmetrici: Lanczos e Gradiente Coniugato
+
+### 7. Risolutori diretti sparsi per sistemi lineari simmetrici definiti positivi
+- Fattorizzazione di Cholesky
+- Gestione della sparsità e fill-in
+- Strategie di ordinamento (Reverse Cuthill-McKee, Approximate Minimum Degree, Nested Dissection)
+
+### 8. Funzioni di Matrici
+- Definizioni equivalenti di f(A)
+- Algoritmo di Schur-Parlett
+- Metodo di Arnoldi per il calcolo di f(A)b
